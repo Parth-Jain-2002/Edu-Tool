@@ -1,2 +1,5 @@
 .env
 v1
+*.pdf
+*.pyc
+cookies_snapshot
